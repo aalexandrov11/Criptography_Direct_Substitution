@@ -1,1 +1,1 @@
-Course work Criptography (university)
+Course work Cryptography (university)
