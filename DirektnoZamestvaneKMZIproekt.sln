@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirektnoZamestvaneKMZIproekt", "DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt.csproj", "{15997923-8C89-4144-A7BB-1840390BA3B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirektnoZamestvaneWindowsForma", "DirektnoZamestvaneWindowsForma\DirektnoZamestvaneWindowsForma.csproj", "{E85AB88C-2506-44C0-8141-BAC79D2893A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15997923-8C89-4144-A7BB-1840390BA3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15997923-8C89-4144-A7BB-1840390BA3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15997923-8C89-4144-A7BB-1840390BA3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15997923-8C89-4144-A7BB-1840390BA3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85AB88C-2506-44C0-8141-BAC79D2893A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85AB88C-2506-44C0-8141-BAC79D2893A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85AB88C-2506-44C0-8141-BAC79D2893A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85AB88C-2506-44C0-8141-BAC79D2893A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {626DA4DF-F4CF-42D3-8352-3FB36CADF4C6}
+	EndGlobalSection
+EndGlobal

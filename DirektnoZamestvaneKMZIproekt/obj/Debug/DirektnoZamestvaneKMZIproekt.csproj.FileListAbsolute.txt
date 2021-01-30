@@ -1,0 +1,7 @@
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\bin\Debug\DirektnoZamestvaneKMZIproekt.exe.config
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\bin\Debug\DirektnoZamestvaneKMZIproekt.exe
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\bin\Debug\DirektnoZamestvaneKMZIproekt.pdb
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\obj\Debug\DirektnoZamestvaneKMZIproekt.csprojAssemblyReference.cache
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\obj\Debug\DirektnoZamestvaneKMZIproekt.csproj.CoreCompileInputs.cache
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\obj\Debug\DirektnoZamestvaneKMZIproekt.exe
+D:\proekti\pops\DirektnoZamestvaneKMZIproekt\DirektnoZamestvaneKMZIproekt\obj\Debug\DirektnoZamestvaneKMZIproekt.pdb
